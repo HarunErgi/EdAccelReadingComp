@@ -2,7 +2,7 @@
 
 A next-generation reading comprehension interface that uses AI to generate questions, evaluate typed answers, and provide structured feedback that helps students actually learn from their mistakes.
 
-**Live demo:** _[Add Vercel link after deployment]_
+**Live demo:** https://ed-accel-reading-comp.vercel.app/
 
 ## Interpretation of Feedback
 
